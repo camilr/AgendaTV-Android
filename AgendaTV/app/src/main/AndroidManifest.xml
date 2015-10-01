@@ -24,6 +24,10 @@
             android:name=".MainActivity"
             android:label="@string/title_activity_root" >
         </activity>
+        <activity
+            android:name=".RegistroActivity"
+            android:label="@string/title_activity_registro" >
+        </activity>
     </application>
 
 </manifest>

@@ -11,4 +11,10 @@
     <string name="title_activity_login">LoginActivity</string>
     <string name="title_activity_root">RootActivity</string>
     <string name="main_btn">Cerrar Sesion</string>
+    <string name="title_activity_registro">RegistroActivity</string>
+    <string name="registro">REGISTRO</string>
+    <string name="reg_usr">Nombre</string>
+    <string name="reg_email">E-mail</string>
+    <string name="reg_pass">Contraseña</string>
+    <string name="reg_pass2">Confirmar Contraseña</string>
 </resources>
